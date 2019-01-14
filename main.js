@@ -9,7 +9,7 @@ const modalData = [
   {
     name: 'player-scrape',
     about: '<h1>Poker scraper desktop and mobile UI</h1>',
-    img: 'image/Poker scraper/presentation pokerpage.jpg'
+    img: 'image/Poker scraper/presentation  pokerpage.jpg'
   }
 ];
 const modal = document.querySelector('.modal');
