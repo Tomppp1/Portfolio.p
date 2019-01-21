@@ -3,12 +3,12 @@
 const modalData = [
   {
     name: 'logo-challenge',
-    about: '<h1>Logo chalange</h1>'+'<p>This is some of my crated logos from 30 days of logo chalange.</p>',
+    about: '<h1>Logo chalange</h1>'+'<div class="line"></div>'+'<p>This is some of my crated logos from 30 days of logo chalange.</p>',
     img: 'image/Logo [roject/part.logos.jpg'
   },
   {
     name: 'player-scrape',
-    about: '<h1>Poker scraper desktop and mobile UI</h1>',
+    about: '<h1>Poker app UI</h1>'+'<div class="line"></div>'+'<p></p>',
     img: 'image/Poker scraper/presentation  pokerpage.jpg'
   }
 ];
