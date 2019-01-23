@@ -10,6 +10,11 @@ const modalData = [
     name: 'player-scrape',
     about: '<h1>Poker app UI</h1>'+'<div class="line"></div>'+'<p></p>',
     img: 'image/Poker scraper/presentation  pokerpage.jpg'
+  },
+  {
+    name: 'tisanes-branding',
+    about: '<h1>Branding for tisanes tea</h1>'+'<div class="line"></div>'+'<p></p>',
+    img: 'image/tisanes branding/tisanes MAIN.jpg'
   }
 ];
 const modal = document.querySelector('.modal');
