@@ -116,6 +116,7 @@ color: rebeccapurple;
     }
     .nav-btn{
         margin: 0px 30px 0px 30px;
+        cursor: pointer;
     }
     header .nav-btn:hover {
         color: #F88181;
