@@ -99,6 +99,9 @@ body{
         color: #333333;
         font-size: 16px;
     }
+    u{
+color: rebeccapurple;
+    }
     .line{
         height: 1px;
         background-color:#bdbdbd;
@@ -154,7 +157,7 @@ body{
     .about-content{
         margin-top: 54px;
         margin-bottom: 54px;
-        max-width: 603px;
+        max-width: 670px;
         text-align: center;
     }
     .about-social{

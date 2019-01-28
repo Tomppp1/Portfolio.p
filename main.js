@@ -3,7 +3,7 @@
 const modalData = [
   {
     name: 'logo-challenge',
-    about: '<h1>Logo chalange</h1>'+'<div class="line"></div>'+'<p>This is some of my crated logos from 30 days of logo chalange.</p>',
+    about: '<h1>Logo chalange</h1>'+'<div class="line"></div>'+'<div class="modal-text"><p>This is some of my crated logos from 30 days of logo chalange.</p></div>',
     img: 'image/Logo [roject/part.logos.jpg'
   },
   {
